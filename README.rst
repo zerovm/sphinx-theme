@@ -11,5 +11,11 @@ Install the package and add this to your ``conf.py``::
 
 That will configure the theme path correctly and activate the theme.
 
+Changelog
+---------
+
+1.0 (2014-03-28):
+    First release.
+
 .. _zerovm: http://zerovm.org/
 .. _sphinx: http://sphinx-doc.org/
