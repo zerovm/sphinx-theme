@@ -15,7 +15,7 @@
 from distutils.core import setup
 
 setup(name='zerovm-sphinx-theme',
-      version='1.0',
+      version='1.1',
       description='ZeroVM theme for Sphinx',
       long_description=open('README.rst').read(),
       author='Martin Geisler',

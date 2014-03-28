@@ -14,6 +14,9 @@ That will configure the theme path correctly and activate the theme.
 Changelog
 ---------
 
+1.1 (2014-03-28):
+    Version 1.0 did not work since ``README.rst`` wasn't distributed.
+
 1.0 (2014-03-28):
     First release.
 
