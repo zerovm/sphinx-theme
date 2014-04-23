@@ -11,6 +11,12 @@ Install the package and add this to your ``conf.py``::
 
 That will configure the theme path correctly and activate the theme.
 
+License
+-------
+
+This theme is distributed under the Apache License version 2.0. Please
+see the file ``LICENSE`` for details.
+
 Changelog
 ---------
 
